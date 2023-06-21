@@ -8,5 +8,5 @@ By the end of this video you will understand:
 4)How to close Soft Key Board when user click submit
 5) How to update text view while user entering into edit text
 
-6) Video Link https://www.youtube.com/watch?v=KIERGVlCeKI
-7) 
+Video Link https://www.youtube.com/watch?v=KIERGVlCeKI
+   
